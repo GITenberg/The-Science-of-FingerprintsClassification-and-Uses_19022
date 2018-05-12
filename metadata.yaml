@@ -1,0 +1,33 @@
+_repo: The-Science-of-FingerprintsClassification-and-Uses_19022
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Hoover, J. Edgar (John Edgar)
+    alias: Hoover, John Edgar
+    birthdate: 1895
+    deathdate: 1972
+    gutenberg_agent_id: '8410'
+    url: http://www.gutenberg.org/2009/agents/8410
+    wikipedia: http://en.wikipedia.org/wiki/J._Edgar_Hoover
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Federal Bureau of Investigation
+    gutenberg_agent_id: '8409'
+    url: http://www.gutenberg.org/2009/agents/8409
+description: ''
+gutenberg_issued: '2006-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Fingerprints'
+title: 'The Science of Fingerprints: Classification and Uses'
+url: http://www.gutenberg.org/ebooks/19022
